@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List Klub Premier League</string>
+    <string name="Klub_name">Nama Klub</string>
+    <string name="Klub_description">Detail Klub</string>
+</resources>
